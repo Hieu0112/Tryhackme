@@ -1,0 +1,15 @@
+What is Google's ASN number? AS15169
+
+How do we find Eternal Blue exploits on Shodan? vuln:ms17-010
+
+What is the top operating system for MYSQL servers in Google's ASN?    ASN:AS15169 product:"MySQL" 5.6.40-84.0-log
+
+What is the 2nd most popular country for MYSQL servers in Google's ASN? Netherlands
+Under Google's ASN, which is more popular for nginx, Hypertext Transfer Protocol or Hypertext Transfer Protocol with SSL? ASN:AS15169 product:"nginx" 
+Hypertext Transfer Protocol
+
+Under Google's ASN, what is the most popular city?
+
+Under Google's ASN in Los Angeles, what is the top operating system according to Shodan?
+
+Using the top Webcam search from the explore page, does Google's ASN have any webcams? Yay / nay.

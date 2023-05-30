@@ -1,0 +1,15 @@
+exiftool file ->Kiểm tra thuộc tính của file
+coppyright : bản quyền
+Tìm được 3 link :Twitter,github, blog
++Twitter : 
+What is this user's avatar of? cat
+What is the SSID of the WAP he connected to? B4:5D:50:AA:86:41
+ Wigle.net. -> UnileverWifi
++github:
+What city is this person in? London
+What is his personal email address? OWoodflint@gmail.com
+What site did you find his email address on? github
+
++Blog :
+Where has he gone on holiday? new york 
+What is the person's password? -> F12 -> I will update this site right away with new photos! -> pennYDr0pper.!
